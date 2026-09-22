@@ -1,0 +1,23 @@
+{
+  "name": "zenn-automatic-prompt-optimization",
+  "version": "1.0.0",
+  "description": "* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanonnon/zenn-automatic-prompt-optimization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanonnon/zenn-automatic-prompt-optimization/issues"
+  },
+  "homepage": "https://github.com/kanonnon/zenn-automatic-prompt-optimization#readme",
+  "dependencies": {
+    "zenn-cli": "^0.5.4"
+  }
+}
